@@ -4,7 +4,7 @@ Data Types
 
 **Review Material**
 
-Books on Python: Think Python (light and intuitive) and Core Python (Deep and comphrehensive). PDF's of both books are on this repository. 
+Books on Python: Think Python (light and intuitive) and Core Python (Deep and comphrehensive). PDF of Think Python is in this repo, Core Python is too large a file but can be freely found online. 
 
 **Exercises**
 
